@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jhonmarkprudentevaldezcoder
+- 👋 Hi, I’m Jhon mark valdez
 - 👀 I’m interested in creating Django project
-- 🌱 I’m currently learning Django react 
+- 🌱 I’m currently learning Django and react 
 - 💞️ I’m looking to collaborate on building projects
 - 📫 How to reach me jhonmarkprudentevaldezcoder@gmail.com
 
